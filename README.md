@@ -18,7 +18,7 @@ __Skills/requirements__
 PyTorch/Tensorflow (PyTorch will be preferred because all our other models are on that framework already) Wrangling with video data Building a simple GUI on top of the model to run it on local systems (on Linux/windows/macOS). Basic knowledge of biology and complex networks theory would be helpful.
 
 ### Project #2: Digital Microsphere   
-This project will build upon the specialized microscopy techniques to develop a shell composed of projected microscopy images, arranged to represent the full external surface of a sphere. This will allow us to create an atlas of the embryo’s outer surface, which in some species (e.g. Axolotl) enables us to have a novel perspective on neural development. You will build a computational tool to visualize these 4D data.
+This project will build upon the specialized microscopy techniques to develop a shell composed of projected microscopy images, arranged to represent the full external surface of a sphere. This will allow us to create an atlas of the embryo’s outer surface, which in some species (e.g. Axolotl) enables us to have a novel perspective on neural development. You will build a computational tool to visualize these 4D data. The project duration is 175 hours or 20 hours for 10 coding weeks.
 
 __What can I do before GSoC to prepare?__    
 Build basic prototypes for this project and discuss about them with the mentors, then read these papers:
