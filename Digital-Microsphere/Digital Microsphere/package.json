@@ -1,0 +1,20 @@
+{
+    "name": "electron-app",
+    "version": "1.0.0",
+    "description": "\"Hello World\"",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron .",
+        "pack_win": "electron-packager . --platform=win32 --arch=x64 --out=win-build --overwrite",
+        "test": "app.js"
+    },
+    "author": "harikrishna",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.3",
+        "three": "^0.138.2"
+    },
+    "devDependencies": {
+        "electron-packager": "^13.1.1"
+    }
+}
